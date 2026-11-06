@@ -1,0 +1,6 @@
+{
+  "name": "OSC Fire Control",
+  "description": "Orbital Strike Cannon Mark 6 firing solution calculator for Minecraft coordinates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
